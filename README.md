@@ -1,5 +1,7 @@
 # Quantity Conversion Library
 
+[![Build Status](https://github.com/Omid91a/CsQuantity/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/Omid91a/CsQuantity/actions)
+
 A C# library implementing the Quantity design pattern for unit conversions. This library provides functionality to convert units for SignalLevel, Frequency, Distance, Ground Speed, Angle Speed, Angle, and Time.
 
 ## Table of Contents
